@@ -66,7 +66,4 @@ java -jar target/file-compression-2.0-SNAPSHOT-jar-with-dependencies.jar
 
 ![Outlook](/git_resource/readmeScreenshot.png?raw=true "File Compression GUI")
 
-## Testing environment:
 
-I tested this project in:
-MacOS Tahoe (version 26.0.1)
